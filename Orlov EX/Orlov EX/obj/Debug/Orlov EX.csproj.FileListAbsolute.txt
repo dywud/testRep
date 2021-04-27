@@ -1,0 +1,18 @@
+D:\IS1-41\Orlov EX\Orlov EX\bin\Debug\Orlov EX.exe.config
+D:\IS1-41\Orlov EX\Orlov EX\bin\Debug\Orlov EX.exe
+D:\IS1-41\Orlov EX\Orlov EX\bin\Debug\Orlov EX.pdb
+D:\IS1-41\Orlov EX\Orlov EX\obj\Debug\Orlov EX.csprojAssemblyReference.cache
+D:\IS1-41\Orlov EX\Orlov EX\obj\Debug\Dobavlenie.g.cs
+D:\IS1-41\Orlov EX\Orlov EX\obj\Debug\MainWindow.g.cs
+D:\IS1-41\Orlov EX\Orlov EX\obj\Debug\App.g.cs
+D:\IS1-41\Orlov EX\Orlov EX\obj\Debug\Orlov EX_MarkupCompile.cache
+D:\IS1-41\Orlov EX\Orlov EX\obj\Debug\Orlov EX_MarkupCompile.lref
+D:\IS1-41\Orlov EX\Orlov EX\obj\Debug\Dobavlenie.baml
+D:\IS1-41\Orlov EX\Orlov EX\obj\Debug\MainWindow.baml
+D:\IS1-41\Orlov EX\Orlov EX\obj\Debug\Orlov EX.g.resources
+D:\IS1-41\Orlov EX\Orlov EX\obj\Debug\Orlov_EX.Properties.Resources.resources
+D:\IS1-41\Orlov EX\Orlov EX\obj\Debug\Orlov EX.csproj.GenerateResource.cache
+D:\IS1-41\Orlov EX\Orlov EX\obj\Debug\Orlov EX.csproj.CoreCompileInputs.cache
+D:\IS1-41\Orlov EX\Orlov EX\obj\Debug\Orlov EX.exe
+D:\IS1-41\Orlov EX\Orlov EX\obj\Debug\Orlov EX.pdb
+D:\IS1-41\Orlov EX\Orlov EX\obj\Debug\Orlov EX.csproj.CopyComplete

@@ -1,0 +1,28 @@
+﻿<Window x:Class="Ekz_app.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ekz_app"
+        mc:Ignorable="d"
+        Title="Главная" Height="374.385" Width="367.52" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="Изменить прибор" HorizontalAlignment="Left" Margin="121,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Название:" HorizontalAlignment="Left" Margin="84,73,0,0" VerticalAlignment="Top"/>
+        <Label Content="Дата поступления:" HorizontalAlignment="Left" Margin="38,99,0,0" VerticalAlignment="Top"/>
+        <Label Content="Дата починки:" HorizontalAlignment="Left" Margin="60,130,0,0" VerticalAlignment="Top"/>
+        <Label Content="Цена:" HorizontalAlignment="Left" Margin="108,161,0,0" VerticalAlignment="Top"/>
+        <Label Content="Описание:" HorizontalAlignment="Left" Margin="82,192,0,0" VerticalAlignment="Top"/>
+        <Label Content="Сотрудник:" HorizontalAlignment="Left" Margin="78,220,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cb_name" HorizontalAlignment="Left" Margin="167,41,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="name_tb" HorizontalAlignment="Left" Height="23" Margin="167,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="data_postypleniya_tb" HorizontalAlignment="Left" Height="23" Margin="167,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="data_remonta_tb" HorizontalAlignment="Left" Height="23" Margin="167,133,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="price_tb" HorizontalAlignment="Left" Height="23" Margin="167,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="description_tb" HorizontalAlignment="Left" Height="23" Margin="167,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="worker_tb" HorizontalAlignment="Left" Height="23" Margin="167,223,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Изменить" HorizontalAlignment="Left" Margin="135,271,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Label Content="Название прибора" HorizontalAlignment="Left" Margin="35,37,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
